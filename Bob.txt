@@ -1,2 +1,3 @@
 Hi! I'm Bob. I've been here for a while now.
 Some other stuff is going on here.
+Some changes here for interactive rebase.
