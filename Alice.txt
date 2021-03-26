@@ -7,3 +7,4 @@ Some other change on the website.
 A change on the website.
 
 Some changes here as well for interactive rebase.
+And some more changes in Alice.
